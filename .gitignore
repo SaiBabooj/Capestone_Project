@@ -15,6 +15,9 @@ build/
 Thumbs.db
 .DS_Store
 
+# Office editor locks
+.qoder-office-docx-locks/
+
 # Logs
 logs/
 *.log
