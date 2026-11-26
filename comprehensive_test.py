@@ -189,7 +189,7 @@ def test_endpoint_permissions():
 
 if __name__ == "__main__":
     print("=" * 60)
-    print("COMPREHENSIVE GATEWAY SECURITY TESTS")
+    print("COMPREHENSIVE INJECGUARD SECURITY TESTS")
     print("=" * 60)
     
     # Test basic functionality

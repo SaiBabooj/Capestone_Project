@@ -1,4 +1,4 @@
-# Gateway Architecture Demo - Complete Documentation
+# InjecGuard - Complete Documentation
 
 ## Table of Contents
 1. [Overview](#overview)

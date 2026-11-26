@@ -4,7 +4,7 @@
 $GATEWAY_URL = "http://localhost:8080"
 $API_KEY = "demo-key-123"
 
-Write-Host "=== Gateway Security Demo Tests ===" -ForegroundColor Cyan
+Write-Host "=== InjecGuard Tests ===" -ForegroundColor Cyan
 Write-Host ""
 
 # Test 1: Valid file

@@ -22,7 +22,7 @@
 | 11:45 | Optimization pass: Waitress, lazy stego, pool size 2→4, combined endpoint | ✅ Done |
 | 11:45 | All 4 services restarted under Waitress (4× threads each) | ✅ Healthy |
 | 11:45 | Killed all stale PIDs; verified clean restart on ports 5001-5003, 8080 | ✅ Done |
-**Project**: Gateway Architecture Demo
+**Project**: InjecGuard
 **Execution Mode**: Local (Without Docker)
 
 ---

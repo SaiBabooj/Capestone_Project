@@ -1,6 +1,6 @@
 # Local Execution Guide (Without Docker)
 
-This guide explains how to run the Gateway Architecture Demo locally without Docker, which is the alternative approach used when Docker is not available on the system.
+This guide explains how to run InjecGuard locally without Docker, which is the alternative approach used when Docker is not available on the system.
 
 ## Overview
 

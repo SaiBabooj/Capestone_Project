@@ -54,7 +54,7 @@ def test_scanner_service():
         print(f"Scan Test: FAILED - {str(e)}")
 
 if __name__ == "__main__":
-    print("Testing Gateway Services...")
+    print("Testing InjecGuard Services...")
     test_gpu_service()
     test_policy_service()
     test_scanner_service()

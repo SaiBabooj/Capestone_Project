@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-- **Name**: Gateway Architecture Demo
+- **Name**: InjecGuard
 - **Path**: `C:\Users\15496\Desktop\Gateway 26\Gateway-Architecture-`
 - **Execution Mode**: Local (no Docker — daemon unavailable)
 - **Status**: All 4 services running and healthy

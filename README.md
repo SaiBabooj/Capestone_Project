@@ -1,4 +1,4 @@
-# Security Gateway Demo
+# InjecGuard
 
 A comprehensive demonstration of an API gateway architecture that protects AI services with authentication, rate limiting, file scanning, and observability.
 
@@ -323,7 +323,7 @@ RUN apt-get update && apt-get install -y libmagic1
 ## Project Structure
 
 ```
-security-gateway-demo/
+injecguard/
 ├── docker-compose.yml          # Orchestration
 ├── README.md                   # This file
 ├── envoy/
